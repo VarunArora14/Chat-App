@@ -85,6 +85,7 @@ class _MessageViewState extends State<MessageView> {
       child: SizedBox(
         width: double.infinity,
         child: SingleChildScrollView(
+          reverse: true,
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.end,
             mainAxisSize: MainAxisSize.max,
