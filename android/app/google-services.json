@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500728134814",
+    "project_id": "chatauth-e1248",
+    "storage_bucket": "chatauth-e1248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500728134814:android:60d1996378efc502390f8f",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500728134814-68iqhgk1upe8sjd14c1r1v0jr0c674s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6WXCQVjqC4P9U5puJ52HLfzzhP_YrE0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500728134814-68iqhgk1upe8sjd14c1r1v0jr0c674s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
